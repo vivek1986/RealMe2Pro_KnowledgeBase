@@ -44,3 +44,7 @@ Phone setting operation path:
 > Reboot only restart the phone.
 
 > Power off will power the device off.
+
+Reference Youtube Videos:
+https://www.youtube.com/watch?v=N01hKLYkw30  
+https://www.youtube.com/watch?v=fAlesDF_XFc  
