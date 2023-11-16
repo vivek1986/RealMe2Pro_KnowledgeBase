@@ -23,7 +23,7 @@ Phone setting operation path:
 
 #### Method 2:
 
-- After turning off the phone, press and hold the [Power button] and the [Volume Down button] at the same time. After the phone vibrates, release it, and the phone will automatically enter Recovery mode.
+- _**After turning off the phone**_, press and hold the [Power button] and the [Volume Down button] at the same time. After the phone vibrates, release it, and the phone will automatically enter Recovery mode.
 
 1. After entering Recovery mode, select the language first. ("English")
 
