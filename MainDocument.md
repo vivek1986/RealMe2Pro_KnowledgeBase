@@ -25,7 +25,7 @@ Phone setting operation path:
 
 - After turning off the phone, press and hold the [Power button] and the [Volume Down button] at the same time. After the phone vibrates, release it, and the phone will automatically enter Recovery mode.
 
-1. After entering Recovery mode, select the language first.
+1. After entering Recovery mode, select the language first. ("English")
 
 2. Choose "Wipe Data".
 
