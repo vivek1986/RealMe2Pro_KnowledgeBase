@@ -19,3 +19,28 @@ Phone setting operation path:
 > Erase Downloaded apps and their data is for erasing downloaded apps only and phone data, Music and other non-app can be retained
 
 > Erase all data is for Erase all data, including photos and music
+
+
+#### Method 2:
+
+- After turning off the phone, press and hold the [Power button] and the [Volume Down button] at the same time. After the phone vibrates, release it, and the phone will automatically enter Recovery mode.
+
+1. After entering Recovery mode, select the language first.
+
+2. Choose "Wipe Data".
+
+3. Choose "Format Data".
+
+4. Maybe enter the verification code
+
+5. After entering the verification code, select "Format".
+
+> Note:
+
+> Online Update is Update the Online Software.
+
+> Wipe Data will erase all data & default system settings.
+
+> Reboot only restart the phone.
+
+> Power off will power the device off.
