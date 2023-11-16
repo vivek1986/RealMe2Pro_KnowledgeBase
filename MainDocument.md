@@ -10,7 +10,7 @@ Phone setting operation path:
 
 - realme UI R & S & T & Go Edition: Settings > System > Reset options >Erase all data.
 
-_**> Note:**_
+> _**Note:**_
 
 > Reset network settings is for setting network settings only
 
@@ -35,7 +35,7 @@ _**> Note:**_
 
 5. After entering the verification code, select "Format".
 
-_**> Note:**_
+> _**Note:**_
 
 > Online Update is Update the Online Software.
 
@@ -45,6 +45,6 @@ _**> Note:**_
 
 > Power off will power the device off.
 
-_**>> Reference Youtube Videos:  **_
+>> _**Reference Youtube Videos:  **_
 >> https://www.youtube.com/watch?v=N01hKLYkw30  
 >> https://www.youtube.com/watch?v=fAlesDF_XFc  
