@@ -45,6 +45,6 @@ Phone setting operation path:
 
 > Power off will power the device off.
 
->> _**Reference Youtube Videos:  **_
+>> _**Reference Youtube Videos:**_
 >> https://www.youtube.com/watch?v=N01hKLYkw30  
 >> https://www.youtube.com/watch?v=fAlesDF_XFc  
