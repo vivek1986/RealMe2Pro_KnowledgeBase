@@ -1,6 +1,6 @@
-### Format Phone or Reset Factory Settings:
+_**### Format Phone or Reset Factory Settings:**_
 
-#### Method 1:
+_**#### Method 1:**_
 
 Phone setting operation path:
 
@@ -10,7 +10,7 @@ Phone setting operation path:
 
 - realme UI R & S & T & Go Edition: Settings > System > Reset options >Erase all data.
 
-> Note:
+_**> Note:**_
 
 > Reset network settings is for setting network settings only
 
@@ -35,7 +35,7 @@ Phone setting operation path:
 
 5. After entering the verification code, select "Format".
 
-> Note:
+_**> Note:**_
 
 > Online Update is Update the Online Software.
 
@@ -45,6 +45,6 @@ Phone setting operation path:
 
 > Power off will power the device off.
 
->> Reference Youtube Videos:  
+_**>> Reference Youtube Videos:  **_
 >> https://www.youtube.com/watch?v=N01hKLYkw30  
 >> https://www.youtube.com/watch?v=fAlesDF_XFc  
